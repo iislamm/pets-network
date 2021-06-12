@@ -1,4 +1,4 @@
-# Tinder4Pets
+# Pets Network
 
 # Setup workflow
 Install dependincies
